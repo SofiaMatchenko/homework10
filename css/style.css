@@ -1,0 +1,11 @@
+div{
+    margin: 10px auto;
+    width: 740px;
+    border: solid 1px #000;
+}
+input{
+    margin: 20px;
+}
+p{
+   text-align: center;
+}
